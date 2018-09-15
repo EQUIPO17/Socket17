@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1537048755831">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1537051088358">
   <folder name="css">
     <file name="site_global.css" crc="186167303"/>
     <file name="estado-del-arte.css" crc="281859354" ref="estado-del-arte"/>
@@ -6,7 +6,7 @@
     <file name="semana-3.css" crc="3919217227" ref="semana-3"/>
     <file name="index.css" crc="3897231900" ref="index"/>
     <file name="nomq_index.css" crc="31389635" ref="index"/>
-    <file name="semana-1.css" crc="3857944346" ref="semana-1"/>
+    <file name="semana-1.css" crc="43922603" ref="semana-1"/>
     <file name="materiales.css" crc="4017703723" ref="materiales"/>
     <file name="semana-2.css" crc="4268870658" ref="semana-2"/>
   </folder>
@@ -347,7 +347,7 @@
     </file>
   </folder>
   <file name="index.html" crc="3835406330" seo="true" mt="1536597523608" redirect="true"/>
-  <file name="semana-1.html" crc="205881569" seo="true" mt="1537043807397" redirect="true"/>
+  <file name="semana-1.html" crc="3861329887" seo="true" mt="1537049869954" redirect="true"/>
   <file name="semana-2.html" crc="308324881" seo="true" mt="1536562602444" redirect="true"/>
   <file name="semana-3.html" crc="27668506" seo="true" mt="1537045484524" redirect="true"/>
   <file name="estado-del-arte.html" crc="4202303627" seo="true" mt="1537042665054" redirect="true"/>
